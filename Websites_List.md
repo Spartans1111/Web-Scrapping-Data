@@ -1,7 +1,9 @@
 Riksdagen - laws.
 These also have the source text (if that is better?) at the second link at every page called "Källa: Fulltext (Regeringskansliet)" 
+
 Arbetsmiljölagen (AML) : 
 https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arbetsmiljolag-19771160_sfs-1977-1160/
+
 Arbetstidslagen (ATL) : 
 https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arbetstidslag-1982673_sfs-1982-673/
 
